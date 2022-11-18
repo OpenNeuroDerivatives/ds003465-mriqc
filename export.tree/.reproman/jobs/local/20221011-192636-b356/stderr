@@ -1,0 +1,16 @@
+Warning: Permanently added 'c102-114' (ED25519) to the list of known hosts.
+WARNING (10/11/22 19:40:27): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4912878.hostlist.LWcptQiP to get hosts
+starting job on c102-114
+starting job on c110-072
+starting job on c110-091
+starting job on c162-142
+starting job on c162-143
+starting job on c165-162
+starting job on c165-163
+starting job on c177-072
+starting job on c177-073
+starting job on c185-193
+starting job on c185-194
+slurmstepd: error: *** JOB 4912878 ON c102-114 CANCELLED AT 2022-10-12T00:23:04 ***
+Terminated
