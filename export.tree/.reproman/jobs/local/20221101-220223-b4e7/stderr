@@ -1,8 +1,0 @@
-Warning: Permanently added 'c104-184' (ED25519) to the list of known hosts.
-WARNING (11/01/22 22:03:05): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.4961360.hostlist.anCB7lFG to get hosts
-starting job on c104-184
-starting job on c109-002
-starting job on c109-021
-starting job on c109-074
-starting job on c109-093
